@@ -1,2 +1,2 @@
 # Algorithms
-code to tackle famour problems using different Data Structures
+code to tackle famous problems using different Data Structures
